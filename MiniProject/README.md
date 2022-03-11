@@ -1,0 +1,2 @@
+This miniproject is on "Digital Steganography with C++" . In this miniproject , I have added OpenCV and CMake in my environment variables and also installed CMake extension in my VSCode to run this project without any errors. In this C++ project , we are using opencv (Computer Vision) , so to run opencv commands we have to include some opencv header files which might show error in your pc if you have not installed OpenCV on your system . 
+
